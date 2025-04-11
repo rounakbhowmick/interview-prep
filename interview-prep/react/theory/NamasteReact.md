@@ -650,3 +650,5 @@ In React development, it's common to question the appropriateness of using array
 ```jsx
 const todoList = todos.map((todo, index) => <TodoItem key={index} {...todo} />);
 ```
+
+### 30. What is Cross site scripting(XSS) ? How JSX takes care of it
